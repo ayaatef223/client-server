@@ -3,15 +3,17 @@
 
 
 i implement two codes:
-the  Three-tier architecture code inside part 1 file
-the threaded code inside connection file 
-
+the  Three-tier architecture code inside 3- tier file
+the threaded code inside threads code 
+ 
 ## a Three-tier architecture code
 
 
 - run Sensor class
 - then run Server class
 - finally, run client class
+- enter the request in this form :"from (your location) to (destination)"
+
 
 ## threaded code   
 
@@ -19,6 +21,8 @@ the threaded code inside connection file
 - run Sensor_threaded class
 - then run server_threaded
 -  finally, run client class
+- enter the request in this form :"from (your location) to (destination)"
+
 
 
 
