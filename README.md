@@ -1,7 +1,7 @@
 
 # Control Traffic system 
 
-
+i use IntelliJ IDEA Community Edition 2021.2.3 to run and compile the code 
 i implement two codes:
 the  Three-tier architecture code inside 3- tier file
 the threaded code inside threads code 
